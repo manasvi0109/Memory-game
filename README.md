@@ -13,7 +13,7 @@ This is a simple memory game built using HTML, CSS, and JavaScript. The objectiv
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/memory-game.git
+   git clone https://github.com/manasvi0109/memory-game.git
    ```
 
 2. Navigate to the project directory:
