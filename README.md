@@ -68,12 +68,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 Enjoy playing the Memory Game! If you have any questions or suggestions, feel free to open an issue or contact the project maintainer.
 
-### Screenshot
-
-![image](https://github.com/manasvi0109/Memory-game/assets/171707742/6aceef2b-d81c-4226-b42c-dc6b2db6f440)
-
-![image](https://github.com/manasvi0109/Memory-game/assets/171707742/35bd2ca5-98f8-4f73-8858-d9cd8799d9a0)
-
-
 
 If you liked this project, please consider giving it a ⭐ on [GitHub]. Thank you!
